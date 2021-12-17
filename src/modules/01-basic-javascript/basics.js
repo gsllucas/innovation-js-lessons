@@ -1,5 +1,7 @@
 // =========== TIPOS DE VARIAVEIS ===========
 // var, let e const
+// a diferença de cada uma está no escopo, e a const não pode receber um novo valor
+// depois de declarada
 var nome = 'Lucas';
 console.log(nome);
 
@@ -11,7 +13,8 @@ if (idade < 18) {
   var message = 'Pode beber com o Japa';
 }
 
-const constante = 'variavel constante';
+const constante = 'constante';
+let variavelLet = 'String com let';
 console.log(message);
 
 // =========== TIPOS DE DADOS NO JAVASCRIPT ===========
