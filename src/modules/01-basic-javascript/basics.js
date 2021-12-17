@@ -1,4 +1,4 @@
-// =========== NOMEAÇÃO DE VARIAVEIS ===========
+// =========== TIPOS DE VARIAVEIS ===========
 // var, let e const
 var nome = 'Lucas';
 console.log(nome);
