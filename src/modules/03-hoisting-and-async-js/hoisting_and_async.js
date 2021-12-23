@@ -10,6 +10,8 @@ var variavel = 'Alguma valor';
 var nome = 'Lucas';
 console.log(nome);
 
+// NESTE CASO, O CÓDIGO IRÁ CRASHAR POR CONTA DE
+// DE UM ACESSO A VARIAVEL QUE AINDA NÃO FOI DECLARADA
 console.log(nome);
 const nome = 'Lucas';
 
