@@ -14,3 +14,8 @@ Módulo 02 - Browsers & DOM (Document Object Model)
 
 Módulo 03 - Hoisting, Javascript Assíncrono e Mais Javascript
 <img src="https://raw.githubusercontent.com/gsllucas/aulas-javascript/master/src/assets/03-module.png"/>
+
+<a href="https://www.figma.com/proto/j5NTdw1ObN9sgBaecKWUMZ/M%C3%B3dulo-04---Classes?node-id=108%3A42&scaling=min-zoom&page-id=0%3A1" target="_blank">Slides 04-Módulo</a>
+
+Módulo 04 - Classes e Orientação à Objetos
+<img src="https://raw.githubusercontent.com/gsllucas/aulas-javascript/master/src/assets/04-module.png"/>
