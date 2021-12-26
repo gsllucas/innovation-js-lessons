@@ -4,9 +4,13 @@
   "description": "Repositorio Publico sobre aulas de javascript - time de Inovação",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run_file": "node src/modules/04-classes/abstract.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
