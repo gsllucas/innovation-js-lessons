@@ -55,24 +55,26 @@
 // suzuki.locomover();
 // console.log(suzuki.rodas);
 // console.log(suzuki.tipo);
-class Person {
-    constructor(nome, idade, dinheiro_conta) {
-        this.nome = nome;
-        this.idade = idade;
-        this._dinheiro_conta = dinheiro_conta;
-    }
-    set dinheiro_conta(value) {
-        this._dinheiro_conta = value;
-    }
-    get dinheiro_conta() {
-        return this._dinheiro_conta;
-    }
-}
-class NovoCliente extends Person {
-    constructor(nome, idade, dinheiro_conta) {
-        super(nome, idade, dinheiro_conta);
-    }
-}
-const cliente = new NovoCliente('Lucas', 22, 200);
-console.log(cliente.dinheiro_conta);
+// abstract class Person {
+//   nome: string;
+//   idade: number;
+//   private _dinheiro_conta: number;
+//   constructor(nome: string, idade: number) {
+//     this.nome = nome;
+//     this.idade = idade;
+//   }
+//   set dinheiro_conta(value: number) {
+//     this._dinheiro_conta = value;
+//   }
+//   get dinheiro_conta() {
+//     return this._dinheiro_conta;
+//   }
+// }
+// class NovoCliente extends Person {
+//   constructor(nome: string, idade: number) {
+//     super(nome, idade);
+//   }
+// }
+// const cliente = new NovoCliente('Lucas', 22);
+// console.log(cliente.dinheiro_conta);
 //# sourceMappingURL=abstract.js.map
