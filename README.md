@@ -1,6 +1,6 @@
 <h2>Public Repository about Javascript Lessons - Innovation Team || Repositório público sobre aulas de Javascript - Time de Inovação.</h2>
 
-**Here, there is  slides and coding classes that i ministered inside the innovation team where i currently work, as a way to help who had more learning difficulty. I saparated the greatests themes that i think it's relevant of learning javascript**
+**Here, there is  slides and coding classes that i ministered inside the innovation team where i currently work, as a way to help who had more learning difficulty. I separated the greatests themes that i think it's relevant of learning javascript**
 
 <a href="https://www.figma.com/proto/uFYceWIvquAr5qVxpDBo2d/M%C3%B3dulo-01---Javascript-B%C3%A1sico?node-id=1%3A2" target="_blank">Slides 01-Módulo</a>
 
