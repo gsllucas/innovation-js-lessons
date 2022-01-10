@@ -1,4 +1,4 @@
-<h2>Repositório público sobre aulas de Javascript - Time de Inovação.</h2>
+<h2>Public Repository about Javascript Lessons - Innovation Team || Repositório público sobre aulas de Javascript - Time de Inovação.</h2>
 
 **Here, there is  slides and coding classes that i ministered inside the innovation team where i currently work, as a way to help who had more learning difficulty. I saparated the greatests themes that i think it's relevant of learning javascript**
 
